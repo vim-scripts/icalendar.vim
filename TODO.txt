@@ -1,0 +1,4 @@
+## TODO ##
+
+- [ ] Customize syntax file to highlight BEGIN:VEVENT and END:VEVENT to better
+reading in multi-appointment files
