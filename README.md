@@ -33,15 +33,17 @@ Then clone the git repo.
 `git clone https://github.com/antoniopaolini/icalendar.vim.git`
 
 #### Others Plugin Manager
-Follow the usual method for each plugin manager.
+
+If you use Vundle or another Vim package manager, you'll need to adjust the commands below to work with it.
 For example see Installation section of [this plugin](https://github.com/mattn/emmet-vim)
 
 ## Version History
 
 - 0.3.1 - 2023-03-08
 	- First fork commit
-	- Added ftdetect folder with filetype detection file.
-
+	+ Added ftdetect folder with filetype detection file.
+- 0.3.2 - 2023-03-23
+    + Added syntax menu item (synmenu.vim)
 
 
 ## Credits 
