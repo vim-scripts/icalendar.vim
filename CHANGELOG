@@ -2,3 +2,6 @@
 
 	* First version after forking the repo.
 	  Added ftdetect directory and filetype detection file
+
+- 0.3.2 - 2023-03-23
+    + Added syntax menu item (synmenu.vim)

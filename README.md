@@ -39,11 +39,11 @@ For example see Installation section of [this plugin](https://github.com/mattn/e
 
 ## Version History
 
+- 0.3.2 - 2023-03-23
+    + Added syntax menu item (synmenu.vim)
 - 0.3.1 - 2023-03-08
 	- First fork commit
 	+ Added ftdetect folder with filetype detection file.
-- 0.3.2 - 2023-03-23
-    + Added syntax menu item (synmenu.vim)
 
 
 ## Credits 
