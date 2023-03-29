@@ -1,8 +1,9 @@
 " Vim syntax file
 " Language:      icalendar <http://www.ietf.org/rfc/rfc2445.txt>
-" Maintainer:    Steven N. Severinghaus <sns@severinghaus.org>
-" Last Modified: 2006-04-17
-" Version:       0.3
+" Maintainer:    Antonio Paolini <paolini@NOSPAM>
+" Forked from: Original project by Steven N. Severinghaus <sns@severinghaus.org>
+" Last Modified: 2023-03-29
+" Version:       0.3.3
 
 " Quit if syntax file is already loaded
 if version < 600
