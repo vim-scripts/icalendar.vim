@@ -6,4 +6,4 @@
 "Invece se lo metto fuori dall'IF funziona
 
 
-:amenu 50.50.330 &Syntax.HIJK.icalendar		:cal SetSyn("icalendar")<CR>
+amenu 50.50.330 &Syntax.HIJK.icalendar<Tab>-AP-	:cal SetSyn("icalendar")<CR>

@@ -39,6 +39,9 @@ For example see Installation section of [this plugin](https://github.com/mattn/e
 
 ## Version History
 
+- 0.3.3 - 2023-03-23
+	+ Added the tag -AP- (**A**dded by **P**lugin) at the end of the menu item
+	* Some minor enhancements and cleanup
 - 0.3.2 - 2023-03-23
     + Added syntax menu item (synmenu.vim)
 - 0.3.1 - 2023-03-08
